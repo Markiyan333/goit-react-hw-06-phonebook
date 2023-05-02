@@ -10,7 +10,7 @@ const App = () => {
         flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
-        fontSize: 20,
+        fontSize: 25,
         color: '#010101',
       }}
     >
